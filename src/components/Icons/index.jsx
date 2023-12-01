@@ -4,7 +4,7 @@ import React from 'react'
 export  const MainLogo= () => {
   return (
     <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
- width="500.000000pt" height="500.000000pt" viewBox="0 0 500.000000 500.000000"
+ width="500.000000pt" height="50.000000pt" viewBox="0 0 500.000000 500.000000"
  preserveAspectRatio="xMidYMid meet">
 
 <g transform="translate(0.000000,500.000000) scale(0.100000,-0.100000)"
@@ -43,3 +43,23 @@ l42 -26 0 89 0 88 -86 48 -86 48 38 22 c22 13 60 35 87 50 l47 27 0 89 c0 50
 
   )
 }
+
+export  const FlowerLogo= () => {
+    return (
+      <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+   width="500.000000pt" height="50.000000pt" viewBox="0 0 50.000000 50.000000"
+   preserveAspectRatio="xMidYMid meet">
+  
+  
+ 
+  <path d="M2570 2230 l0 -450 95 0 95 0 0 304 c0 264 2 307 16 320 21 22 40 20
+  58 -6 14 -19 16 -67 16 -320 l0 -298 91 0 90 0 -3 328 c-3 299 -5 330 -22 366
+  -25 51 -68 76 -129 76 -42 0 -54 -5 -83 -34 l-34 -34 0 99 0 99 -95 0 -95 0 0
+  -450z"/>
+
+  
+  </svg>
+  
+    )
+  }
+  
