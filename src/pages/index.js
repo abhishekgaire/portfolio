@@ -8,10 +8,29 @@ export default function Home() {
         <title>Template</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <main className="mx-auto w-auto ">
-        <MenuButton>Menu</MenuButton>
-        <MenuButton>Contact</MenuButton>
+      <main className=" w-auto ">
+        {/* <MenuButton>Menu</MenuButton>
+        <MenuButton>Contact</MenuButton> */}
         <Header/>
+        <div className='block px-20 pt-40 text-[7vh]'>
+          <div>this is to test scroll</div>
+          <div>this is to test scroll</div>
+          <div>this is to test scroll</div>
+          <div>this is to test scroll</div>
+          <div>this is to test scroll</div>
+          <div>this is to test scroll</div>
+          <div>this is to test scroll</div>
+          <div>this is to test scroll</div>
+          <div>this is to test scroll</div>
+          <div>this is to test scroll</div>
+          <div>this is to test scroll</div>
+          <div>this is to test scroll</div>
+          <div>this is to test scroll</div>
+          <div>this is to test scroll</div> 
+          <div>this is to test scroll</div>
+          <div>this is to test scroll</div>
+
+        </div>
       </main>
     </div>
   );
